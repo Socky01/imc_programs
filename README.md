@@ -40,10 +40,10 @@ Program :
 
 # Slurm
 ### Manual Install
-#### [English] - On Progress
+#### [English]((https://github.com/Socky01/Slurm))
 #### [Indonesia] - On Progress
 
 ### Using Script
-#### [English](https://github.com/Socky01/Slurm)
+#### [English] - On Progress
 #### [Indonesia] - On Progress
 ----------------------
