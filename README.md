@@ -1,4 +1,4 @@
-# Guide To Install Chemmistry Computational Program
+# Guide To Install Chemistry Computational Program
 ----------------------
 Program :
 - [x] Nwchem 7.0.2
