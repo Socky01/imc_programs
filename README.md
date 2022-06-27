@@ -20,7 +20,7 @@ Program :
 
 ## DFTB+
 ### Manual Install
-#### [English] On Progress
+#### [English](https://github.com/Socky01/DFTB-_Installation)
 #### [Indonesia](https://github.com/ARN696/Instalasi_DFTB-) Waiting Merge
 
 ### Using Script
