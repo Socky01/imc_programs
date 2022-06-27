@@ -4,7 +4,7 @@ Program :
 - [x] Nwchem 7.0.2
 - [x] DFTB+
 - [x] XTB
-- [ ] Slurm - On Progress
+- [x] Slurm - On Progress
 - [ ] Gromacs - On Progress
 - [ ] Orca - On Progress
 
