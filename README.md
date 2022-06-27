@@ -3,7 +3,7 @@
 Program :
 - [x] Nwchem 7.0.2
 - [x] DFTB+
-- [ ] XTB - On Progress
+- [x] XTB
 - [ ] Slurm - On Progress
 - [ ] Gromacs - On Progress
 - [ ] Orca - On Progress
@@ -30,7 +30,7 @@ Program :
 
 # XTB
 ### Manual Install
-#### [English] - On Progress
+#### [English](https://github.com/Socky01/XTB)
 #### [Indonesia] - On Progress
 
 ### Using Script
