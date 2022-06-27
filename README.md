@@ -10,7 +10,7 @@ Program :
 
 ## Nwchem 7.0.2 For Ubuntu 20.04
 ### Manual Install :
-#### [English] On Progress
+#### [English](https://github.com/nwchemgit/nwchem/releases)
 #### [Indonesia] On Progress
 
 ### Using Script
