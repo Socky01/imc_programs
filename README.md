@@ -44,6 +44,6 @@ Program :
 #### [Indonesia] - On Progress
 
 ### Using Script
-#### [English] - On Progress
+#### [English](https://github.com/Socky01/Slurm)
 #### [Indonesia] - On Progress
 ----------------------
