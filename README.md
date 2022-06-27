@@ -37,3 +37,13 @@ Program :
 #### [English] - On Progress
 #### [Indonesia] - On Progress
 ----------------------
+
+# Slurm
+### Manual Install
+#### [English] - On Progress
+#### [Indonesia] - On Progress
+
+### Using Script
+#### [English] - On Progress
+#### [Indonesia] - On Progress
+----------------------
