@@ -40,7 +40,7 @@ Program :
 
 # Slurm
 ### Manual Install
-#### [English]((https://github.com/Socky01/Slurm))
+#### [English](https://github.com/Socky01/Slurm)
 #### [Indonesia] - On Progress
 
 ### Using Script
